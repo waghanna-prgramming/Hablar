@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239928029896",
+    "project_id": "flash-chat-e8862",
+    "storage_bucket": "flash-chat-e8862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239928029896:android:fa01c0d8b58f9b176a2bfd",
+        "android_client_info": {
+          "package_name": "com.sidvjtian.hablar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239928029896-lfpc6k7dtb2d9pisjhsn647m549cbssi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALay-FVcGY9sJvTh5w3Iz3Q285eIbCsF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239928029896-lfpc6k7dtb2d9pisjhsn647m549cbssi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
